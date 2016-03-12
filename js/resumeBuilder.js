@@ -217,7 +217,7 @@ var publications = {
 
 /* The method display of the bio object is defined below, this method modifies the HTML to
 display all the information in the bio JSON. */
-*/
+
 bio.display = function() {
 	/* HTMLheaderRole is defined in the file helper.js, it contains the HTML to be prepended to the
 	header section of the HTML. before it's assigned to the variable formattedRole some of its text
